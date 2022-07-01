@@ -30,7 +30,6 @@
 &nbsp; <a href="https://www.linkedin.com/in/ndong-ngoua/" target="_blank"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/linkedin.png" width="50" /></a>  
 &nbsp; <a href="mailto:canestinng@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/gmail.png" width="50" /></a>  
 &nbsp; <a href="https://www.facebook.com/profile.php?id=100070757420059" target="_blank"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/fbk.png" width="50" /></a>
-&nbsp; <a href="https://www.instagram.com/canestin_off/" target="_blank"><img src="https://raw.githubusercontent.com/Canestin/myResources/2b3677e8e89978f2d43fd2b42b1d7598f948462d/img/Instagram.png"  width="50" /></a>
 &nbsp; <a href="https://twitter.com/CanestinN" target="_blank"><img src="https://github.com/Canestin/myResources/blob/main/img/twitter.png?raw=true"  width="52" /></a>
 
 </p> 
