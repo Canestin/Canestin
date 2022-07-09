@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/Canestin/myResources/270adb3819b3cb9425af71e762232d78e0a23f42/img/canou.gif?token=AX674BG7OZQ6X3MOJ4DKD33CXZC4A" width="200">
-<img align="right" alt="GIF" src="https://github.com/Canestin/myResources/blob/main/img/pc.gif?raw=true" width="350"/>
 
 <h3> 😎💻 Hey ! Moi c'est Canestin. À propos : </h3>
 
